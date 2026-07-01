@@ -1,16 +1,22 @@
-# React + Vite
+# ⚡ NEON TECH - E-commerce Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una interfaz de usuario (Frontend) moderna y de alto rendimiento para una tienda de hardware y componentes de PC de gama alta. Este proyecto fue construido con un enfoque fuerte en **UI/UX**, utilizando una estética oscura (Dark Mode), efectos "Glassmorphism" (vidrio esmerilado) y detalles de iluminación neón.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Este proyecto fue desarrollado utilizando el ecosistema más moderno de desarrollo web:
 
-## React Compiler
+- **[React](https://react.dev/)**: Librería principal para la construcción de interfaces.
+- **[Vite](https://vitejs.dev/)**: Entorno de desarrollo ultra-rápido y empaquetador.
+- **[Tailwind CSS v4](https://tailwindcss.com/)**: Framework de utilidades CSS para el diseño ágil, aprovechando la nueva arquitectura nativa.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Características Principales
 
-## Expanding the ESLint configuration
+- **Diseño Futurista:** Interfaz completamente en modo oscuro con acentos de color cian y violeta neón.
+- **Micro-interacciones:** Animaciones fluidas al hacer scroll (Intersection Observer) y efectos de brillo que siguen el cursor del mouse.
+- **Componentes "Glassmorphism":** Tarjetas de productos con fondos translúcidos y desenfoque (backdrop blur).
+- **Responsive Design:** Adaptable a todo tipo de pantallas (Móviles, Tablets y Monitores de alta resolución).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+*Desarrollado con pasión para explorar el futuro de las interfaces web.*
